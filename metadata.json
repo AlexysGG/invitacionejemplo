@@ -1,0 +1,6 @@
+{
+  "name": "Mis XV Años · Emilia",
+  "description": "Elegante invitación digital para la celebración de XV años de Emilia con animaciones, integración con mapas interactivos, itinerario y confirmación de asistencia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
